@@ -1,16 +1,21 @@
-## Hi there 👋
+Olá, sou o Lucas Donato.
 
-<!--
-**harger02030/harger02030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Segurança da Informação e desenvolvedor focado em desenvolvimento web, automação e cibersegurança.
 
-Here are some ideas to get you started:
+### Sobre Mim
+- 🎓 Focado em boas práticas de desenvolvimento seguro, análise de redes e sistemas Linux.
+- 💻 Desenvolvendo projetos práticos com Python, JavaScript, HTML5/CSS3 e Bootstrap.
+- 🎯 Objetivo: Construir aplicações funcionais, limpas e com arquitetura segura.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tecnologias & Ferramentas
+- **Linguagens:** Python, JavaScript, HTML5, CSS3, SQL
+- **Segurança & Redes:** Wireshark, Nmap, Kali Linux, Modelos TCP/IP & OSI
+- **Ferramentas:** Git, GitHub, VS Code, Bootstrap, Linux
+
+---
+
+### Contato
+- **LinkedIn:** [Acesse meu LinkedIn](www.linkedin.com/in/lucas-donato-de-souza)
+- **E-mail:** lucasdonatodesouza02030@gmail.com
