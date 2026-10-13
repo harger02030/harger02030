@@ -3,9 +3,9 @@ Olá, sou o Lucas Donato.
 Estudante de Segurança da Informação e desenvolvedor focado em desenvolvimento web, automação e cibersegurança.
 
 ### Sobre Mim
-- 🎓 Focado em boas práticas de desenvolvimento seguro, análise de redes e sistemas Linux.
-- 💻 Desenvolvendo projetos práticos com Python, JavaScript, HTML5/CSS3 e Bootstrap.
-- 🎯 Objetivo: Construir aplicações funcionais, limpas e com arquitetura segura.
+-  Focado em boas práticas de desenvolvimento seguro, análise de redes e sistemas Linux.
+-  Desenvolvendo projetos práticos com Python, JavaScript, HTML5/CSS3 e Bootstrap.
+-  Objetivo: Construir aplicações funcionais, limpas e com arquitetura segura.
 
 ---
 
